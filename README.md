@@ -1,4 +1,11 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <h1>
+  Hi There
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+</div>
+
 
 I am Prashul Jain, a **Full Stack Engineer** based out of Nagpur working at [Highway 9 Networks](https://www.highway9networks.com). Having around 4 years of experience in full-stack web development, but since 2022, I'm professionally working as a Software Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
