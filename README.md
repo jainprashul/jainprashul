@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Prashul Jain, a **Full Stack Engineer** based out of Nagpur working at [Highway 9 Networks](https://www.highway9networks.com). Having around 4 years of experience in full-stack web development, but since 2022, I'm professionally working as a Frontend Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am Prashul Jain, a **Full Stack Engineer** based out of Nagpur working at [Highway 9 Networks](https://www.highway9networks.com). Having around 4 years of experience in full-stack web development, but since 2022, I'm professionally working as a Software Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 🔭 I’m currently working on 5G, UI/UX design & implementation. 
 Love to work and looking forward.
@@ -34,6 +34,8 @@ Love to work and looking forward.
 
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=GCP)
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
