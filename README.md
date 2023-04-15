@@ -7,7 +7,7 @@
 </div>
 
 
-I am Prashul Jain, a **Full Stack Engineer** based out of Nagpur working at [Highway 9 Networks](https://www.highway9networks.com). Having around 4 years of experience in full-stack web development, but since 2022, I'm professionally working as a Software Engineer. To see my profile in detail, I recommend to look at my LinkedIn profile.
+I am Prashul Jain, a **Full Stack Engineer** based out of Nagpur working at [Highway 9 Networks](https://www.highway9networks.com). Having around 4 years of experience in full-stack web development, 2 years of experience in Data Modelling. To see my profile in detail, I recommend to look at my LinkedIn profile.
 
 🔭 I’m currently working on 5G, UI/UX design & implementation. 
 Love to work and looking forward.
