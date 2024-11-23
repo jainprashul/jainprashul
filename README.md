@@ -72,6 +72,8 @@ Love to work and looking forward.
 
 ## Stats
 
+<a href="https://app.daily.dev/jainprashul"><img src="https://api.daily.dev/devcards/v2/7V7d2sKu0c8rRa40ELjag.png?r=cjk&type=wide" width="652" alt="Prashul Jain's Dev Card"/></a>
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=jainprashul&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jainprashul&hide=TeX&layout=compact&theme=prussian)
 
